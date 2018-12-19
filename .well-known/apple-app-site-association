@@ -1,5 +1,19 @@
 {
 	"webcredentials": {
-		"apps": [ "2GVJ6JS822.com.fueled.Trace" ]
-	}
+		"apps": [ 
+            "2GVJ6JS822.com.fueled.Trace"
+        ]
+	},
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2GVJ6JS822.com.fueled.Trace",
+                "paths": [
+                    "/",
+                    "/lotOverview/*"
+                ]
+            }
+        ]
+    }
 }
