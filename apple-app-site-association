@@ -9,7 +9,8 @@
                 		"appID": "2GVJ6JS822.com.fueled.Breakthrough",
 				"paths": [
                     			"/",
-					"/lotOverview/*"
+					"/program/*",
+					"/bonus/*"
 				]
 			}
 		]
