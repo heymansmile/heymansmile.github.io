@@ -8,10 +8,18 @@
             		{
                 		"appID": "2GVJ6JS822.com.fueled.Breakthrough",
 				"paths": [
-                    			"/",
 					"/program/*",
 					"/bonus/*"
 				]
+			}
+		],
+		"appIDs": [ "2GVJ6JS822.com.fueled.Breakthrough" ],
+		"components": [
+			{
+				"/": "/program/*"
+			},
+			{
+				"/": "/bonus/*"
 			}
 		]
 	}
