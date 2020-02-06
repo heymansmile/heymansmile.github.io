@@ -1,19 +1,17 @@
 {
 	"webcredentials": {
-		"apps": [ 
-            "2GVJ6JS822.com.fueled.Trace"
-        ]
+		"apps": [ "2GVJ6JS822.com.fueled.Breakthrough" ]
 	},
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "2GVJ6JS822.com.fueled.Trace",
-                "paths": [
-                    "/",
-                    "/lotOverview/*"
-                ]
-            }
-        ]
-    }
+	"applinks": {
+		"apps": [],
+		"details": [
+            		{
+                		"appID": "2GVJ6JS822.com.fueled.Breakthrough",
+				"paths": [
+                    			"/",
+					"/lotOverview/*"
+				]
+			}
+		]
+	}
 }
